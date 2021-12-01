@@ -1,1 +1,5 @@
 
+Open source software (OSS) is software that is distributed with its source code, making it available for use, 
+modification, and distribution with its original rights. ... OSS typically includes a license that allows programmers to 
+modify the software to best fit their needs and control how the software can be distributed.
+ i have added a new line
